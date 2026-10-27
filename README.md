@@ -222,4 +222,4 @@ UltraISO is available as a complete free version with all features and updates i
 Start managing your ISO images today with UltraISO! Download now and unlock the complete package of features for free.
 
 ---
-**Last updated:** 2026-10-27 18:30:55 UTC
+**Last updated:** 2026-10-27 22:43:39 UTC
